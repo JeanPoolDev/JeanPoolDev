@@ -19,3 +19,12 @@
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/FeryaelJustice">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feryaeljustice)](#)
+
+</a>
